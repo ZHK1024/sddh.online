@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /privacy-policy.html
+Disallow: /service-agreement.html
+Allow: /
+
+Sitemap: https://sddh.online/sitemap.xml
